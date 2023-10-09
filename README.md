@@ -16,7 +16,7 @@ Interested in building fun, interactive, and beautiful experiences
 
 ## Skills
 
-![Bash](https://img.shilds.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![Git](https://img.shilds.io/badge/git-%23F05033.svg?style=for-the-badge&logo=gitea&logoColor=5D9425)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Haskell](https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white)

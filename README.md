@@ -12,8 +12,6 @@ Interested in building fun, interactive, and beautiful experiences
 
 :space_invader: Fullstack Developer at @ [**SoarLabz**](sl)
 
-[42tm]: https://github.com/42tm
-
 ## Skills
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

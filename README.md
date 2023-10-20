@@ -8,9 +8,9 @@ Interested in building fun, interactive, and beautiful experiences
 
 ## Life
 
-:space_invader: Software Analysis and Development @ [**Universidade de Guarulhos**](ung)
+:space_invader: Analysis and Systems Development @ [**Universidade de Guarulhos**](ung)
 
-:space_invader: Fullstack Developer at @ 
+:space_invader: Backend Developer at @ 
 
 ## Skills
 

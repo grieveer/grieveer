@@ -10,7 +10,7 @@ Interested in building fun, interactive, and beautiful experiences
 
 :space_invader: Software Analysis and Development @ [**Universidade de Guarulhos**](ung)
 
-:space_invader: Fullstack Developer at @ [**SoarLabz**](sl)
+:space_invader: Fullstack Developer at @ 
 
 ## Skills
 

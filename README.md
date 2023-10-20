@@ -10,7 +10,7 @@ Interested in building fun, interactive, and beautiful experiences
 
 :space_invader: Analysis and Systems Development @ [**Universidade de Guarulhos**](ung)
 
-:space_invader: Backend Developer at @ 
+:space_invader: Backend Developer @ 
 
 ## Skills
 
